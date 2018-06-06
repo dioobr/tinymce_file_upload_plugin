@@ -1,0 +1,18 @@
+body{
+	font-family: 'Helvetica', sans-serif;
+	font-style: normal;
+	line-height: 21px;
+	font-size: 14px;
+	margin: 20px;
+	cursor: text;
+}
+
+p{
+	margin: 0;
+	padding: 0;
+}
+
+td, th{
+	font-family: inherit;
+	font-size: inherit;
+}
